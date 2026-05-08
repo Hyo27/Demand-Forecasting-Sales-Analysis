@@ -1,5 +1,4 @@
-Sales & Forecast Behaviour Analysis (Excel-based)
-
+Sales & Forecast Behaviour Analysis
 Objective: Monitored weekly sales performance against forecasts across European regions to identify demand volatility.
 
 Key Functionality: Utilized rolling 8-week averages and sparkline trends to visualize sales momentum.
